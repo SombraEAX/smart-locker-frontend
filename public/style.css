@@ -1,0 +1,9 @@
+body,html,#app{
+    padding:0px;
+    margin:0px;
+    height:100%;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+}
